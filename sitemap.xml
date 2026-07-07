@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/about.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/blog.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/construction.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/hotels.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/pricing.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/privacy.html</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/restaurants.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/security.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/supermarkets.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mafilikaholdings.ink/terms.html</loc>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
