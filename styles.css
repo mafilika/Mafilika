@@ -293,3 +293,15 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   .form-row{grid-template-columns:1fr;}
   .why-grid{grid-template-columns:1fr;}
 }
+.logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo-img {
+    height: 65px;
+    width: auto;
+    display: block;
+}
+}
